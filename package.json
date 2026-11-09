@@ -1,0 +1,10 @@
+{
+  "name": "or-tableau-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Interactive two-phase simplex, farm planning, and weather decision analysis.",
+  "scripts": {"test": "node --test", "start": "python -m http.server 8000 --bind 127.0.0.1"},
+  "engines": {"node": ">=20"},
+  "license": "MIT"
+}
